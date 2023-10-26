@@ -1,0 +1,1 @@
+insert into  books (isbn, name, author, role) values (9781566199094, 'The Pragmatic Programmer', 'Andrew Hunt', 'user');
